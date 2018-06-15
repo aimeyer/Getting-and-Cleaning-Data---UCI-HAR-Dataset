@@ -17,9 +17,9 @@ One of the most exciting areas in all of data science right now is wearable comp
 
 
 This repository contains:
-* README.md – provides an over view of dataset and how it was created
-* CodeBook.md – Describes contents of the dataset, including data, variables and transformations used.
-* Run_Analysis.R – the R script used to process the original dataset into a tidy data set
+* README.md â€“ provides an over view of dataset and how it was created
+* CodeBook.md â€“ Describes contents of the dataset, including data, variables and transformations used.
+* Run_Analysis.R â€“ the R script used to process the original dataset into a tidy data set
 
 ## Study Design
 Human Activity Recognition Using Smartphones Dataset
